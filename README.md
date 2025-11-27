@@ -1,2 +1,1 @@
-# CTF_challenges-Discuz_
-Discuz!!!!!
+写了很精彩的背景故事，只不过平台关闭找不到了！
